@@ -1,0 +1,8 @@
+.logo-illapa {
+  display: flex;
+  align-items: center;
+}
+.logo-illapa img {
+  height: 75px;
+  width: auto;
+}
